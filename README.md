@@ -1,5 +1,5 @@
 # IoTControl Results
-
+[![DOI](https://zenodo.org/badge/1102648512.svg)](https://doi.org/10.5281/zenodo.18806713)
 A **community-driven collection** of results from the **IoTControl** project.
 
 This repository aggregates experimental data from control experiments run through *IoTControl*. The goal is to centralize and share results so researchers, engineers, and contributors can analyze, reproduce, or build upon them.
