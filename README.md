@@ -1,5 +1,5 @@
 # IoTControl Results
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18806714.svg)](https://doi.org/10.5281/zenodo.18806714)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18806713.svg)](https://doi.org/10.5281/zenodo.18806713)
 
 A **community-driven collection** of results from the **IoTControl** project.
 
