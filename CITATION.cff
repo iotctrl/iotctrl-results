@@ -1,11 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: "Experimental Results Dataset iotctrl-results for [Remote Control Laboratory with AI Based on the Internet of Things]"
+message: "If you use this dataset, please cite it as below."
+type: dataset
 authors:
 - family-names: "Martins"
   given-names: "Danilo"
+  affiliation: "Escola Politécnica da USP"
   orcid: "https://orcid.org/0000-0002-3035-7137"
-title: "iotctrl-results"
 version: 1.0.0
 doi: 10.5281/zenodo.18806714
 date-released: 2026-02-27
 url: "https://github.com/iotctrl/iotctrl-results"
+abstract: >
+  This dataset contains experimental results collected during the validation
+  of a digital control platform developed for control systems remote laboratory.
+  The CSV files include time-series measurements, control effort,
+  and sensor readings obtained from real-time executions. 
+  The dataset enables reproducibility of the experiments
+  and supports the results presented in the PhD thesis.
+
+keywords:
+  - control systems
+  - experimental data
+  - digital platform
+  - IoT
+  - reproducible research
